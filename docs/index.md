@@ -1,7 +1,7 @@
 # Charter Document for 
 ## Intelligent Immersion in the Metaverse (IIM) ACM Chapter
 
-This document will be used to outline the structure, mission, and activities of the Intelligent Immersion in the Metaverse (IIM) ACM Chapter.
+This document will be used to outline the structure, vision/mission, and activities of the Intelligent Immersion in the Metaverse (IIM) ACM Chapter.
 
 The immediate goal is to officially establish IIM as an ACM Virtual Chapter.
 - note that traditional ACM chapters are geographically based, but virtual chapters are based on a common interest or theme
