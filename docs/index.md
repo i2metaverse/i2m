@@ -61,7 +61,8 @@ Membership will be managed through the ACM's official membership platform, and m
 [insert link here]
 
 Unofficially, we will also maintain a Discord server for community members to engage in discussions, share resources, and collaborate on projects.
-[insert discord server link]
+
+https://discord.gg/vaKR5BBQt4
 
 To maintain IIM as an ACM Chapter, we will need to have at least a Chair, Vice-Chair and Treasurer. We will also need to have at least 10 ACM members in good standing to start the chapter.
 
