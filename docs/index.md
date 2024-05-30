@@ -32,8 +32,9 @@ Some background about IIM:
 - We started an "AI x Metaverse" track in the AAAI 2023 Summer Symposium, and garnered the highest number of submissions resulting in a full-day workshop that was the most attended track
 - We followed that up with a "AI x Metaverse" BoF session at SIGGRAPH Asia 2023, which also enjoyed (more than) a full house
 
-![IMG_3384](https://github.com/humaien/iim/assets/3528274/78c536bd-1fca-496c-9607-49853d2830f0)
-![IMG_5380](https://github.com/humaien/iim/assets/3528274/859e1ba2-c30c-4653-857f-e28b901bbf35)
+![aaai](https://github.com/humaien/iim/assets/3528274/383b9d2e-806e-4632-8a75-269e8d5a3073)
+![bof](https://github.com/humaien/iim/assets/3528274/d82f8da6-8dc9-4a12-a550-95b46be6abd1)
+
 
 ## Mission and Vision
 
