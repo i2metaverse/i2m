@@ -9,12 +9,12 @@ The immediate goal is to officially establish IIM as an ACM Virtual Chapter.
 
 ## Table of Contents:
 
-1. [Overview](#Overview)
-2. [Mission and Vision](#Mission-and-Vision)
-3. [Membership](#Membership)
-4. [Officers and Leadership](#Officers-and-Leadership)
-5. [Meetings and Activities](#Meetings-and-Activities)
-6. [Finances](#Finances)
+1. [Overview](#overview)
+2. [Mission and Vision](#mission-and-vision)
+3. [Membership](#membership)
+4. [Officers and Leadership](#officers-and-leadership)
+5. [Meetings and Activities](#meetings-and-activities)
+6. [Finances](#finances)
 
 ## Overview
 
