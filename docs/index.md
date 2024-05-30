@@ -31,7 +31,7 @@ Some background about IIM:
 - We started an "AI x Metaverse" track in the AAAI 2023 Summer Symposium, and garnered the highest number of submissions resulting in a full-day workshop that was the most attended track
 - We followed that up with a "AI x Metaverse" BoF session at SIGGRAPH Asia 2023, which also enjoyed (more than) a full house
 
-## Mission and Vision**
+## Mission and Vision
 
 **Mission:**
 
