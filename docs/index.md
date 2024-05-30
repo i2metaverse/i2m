@@ -6,7 +6,7 @@ The immediate goal is to officially establish IIM as an ACM Virtual Chapter.
 - note that traditional ACM chapters are geographically based, but virtual chapters are based on a common interest or theme
 - we did not tie this to a SIG, as there is no one SIG that covers the intersecting areas
 
-## Table of Contents:**
+## Table of Contents:
 
 1. [Overview](#Overview)
 2. [Mission and Vision](#Mission-and-Vision)
@@ -15,7 +15,7 @@ The immediate goal is to officially establish IIM as an ACM Virtual Chapter.
 5. [Meetings and Activities](#Meetings-and-Activities)
 6. [Finances](#Finances)
 
-## 1. Overview
+## Overview
 
 The Intelligent Immersion in the Metaverse (IIM) ACM Chapter welcomes individuals passionate about exploring the intersection of artificial intelligence (AI) and immersive technologies, including research and development across domains of Machine Learning, Human-Computer Interaction, Computer Graphics, and other related fields.
 
@@ -31,7 +31,7 @@ Some background about IIM:
 - We started an "AI x Metaverse" track in the AAAI 2023 Summer Symposium, and garnered the highest number of submissions resulting in a full-day workshop that was the most attended track
 - We followed that up with a "AI x Metaverse" BoF session at SIGGRAPH Asia 2023, which also enjoyed (more than) a full house
 
-## 2. Mission and Vision**
+## Mission and Vision**
 
 **Mission:**
 
@@ -45,7 +45,7 @@ The IIM ACM Chapter's mission is to:
 
 The IIM ACM Chapter aspires to be a leading force in shaping the future of the metaverse by spearheading workshops, symposiums, and collaborative research initiatives that drive the integration of AI and immersive technologies.
 
-## 3. Membership
+## Membership
 
 Membership in the IIM ACM Chapter is open to individuals who share an interest in the intersection of artificial intelligence and immersive technologies. Members are encouraged to actively participate in the community by:
 
@@ -61,7 +61,7 @@ Unofficially, we will also maintain a Discord server for community members to en
 
 To maintain IIM as an ACM Chapter, we will need to have at least a Chair, Vice-Chair and Treasurer. We will also need to have at least 10 ACM members in good standing to start the chapter.
 
-## 4. Officers and Leadership
+## Officers and Leadership
 
 The IIM ACM Chapter will be led by a team of Chapter Officers who will oversee the community's activities and initiatives. The officer roles and responsibilities are as follows:
 - **Chapter Chair:** Responsible for overseeing the chapter's operations, setting strategic goals, and coordinating activities
@@ -78,7 +78,7 @@ The current steering committee members are:
 
 More details on the roles and responsibilities of the officers can be found in the [chapter-in-a-box-professional](https://www.acm.org/binaries/content/assets/chapters/chapter-in-a-box-professional.pdf) guide provided by the ACM.
 
-## 5. Meetings and Activities
+## Meetings and Activities
 
 The IIM ACM Chapter will organize regular meetings and activities to engage members and foster collaboration within the community. We primarily aim to conduct these activities at leading conferences and symposiums. Some of the key activities we plan to organize include:
 
@@ -87,7 +87,7 @@ The IIM ACM Chapter will organize regular meetings and activities to engage memb
 - **Birds of a Feather (BoF)** at SIGGRAPH and SIGGRAPH Asia
 - etc.
 
-## 6. Finances
+## Finances
 
 The IIM ACM Chapter will operate on a non-profit basis and will rely on funding from the community and external sponsors to support its activities. Specific sources of funding will be determined at a later stage.
 
