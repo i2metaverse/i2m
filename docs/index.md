@@ -1,13 +1,10 @@
-# Charter Document
+# Charter Document for Intelligent Immersion in the Metaverse (IIM) ACM Chapter
 
 This document will be used to outline the structure, mission, and activities of the Intelligent Immersion in the Metaverse (IIM) ACM Chapter.
 
-The immediate goal is to start an ACM Virtual Chapter.
+The immediate goal is to officially establish IIM as an ACM Virtual Chapter.
 - note that traditional ACM chapters are geographically based, but virtual chapters are based on a common interest or theme
 - we did not tie this to a SIG, as there is no one SIG that covers the intersecting areas
-
-## Community Title:
-Intelligent Immersion in the Metaverse (IIM) ACM Chapter
 
 ## Table of Contents:**
 
@@ -29,6 +26,10 @@ Our community fosters a collaborative environment that leverages the diverse per
 * **Encourage the evolution of methodologies** to keep pace with advancements in intelligent immersion.
 
 By joining us, you can contribute to the growth and innovation of intelligent immersification through our collaborative efforts.
+
+Some background about IIM:
+- We started an "AI x Metaverse" track in the AAAI 2023 Summer Symposium, and garnered the highest number of submissions resulting in a full-day workshop that was the most attended track
+- We followed that up with a "AI x Metaverse" BoF session at SIGGRAPH Asia 2023, which also enjoyed (more than) a full house
 
 ## 2. Mission and Vision**
 
@@ -58,6 +59,8 @@ Membership will be managed through the ACM's official membership platform, and m
 Unofficially, we will also maintain a Discord server for community members to engage in discussions, share resources, and collaborate on projects.
 [insert discord server link]
 
+To maintain IIM as an ACM Chapter, we will need to have at least a Chair, Vice-Chair and Treasurer. We will also need to have at least 10 ACM members in good standing to start the chapter.
+
 ## 4. Officers and Leadership
 
 The IIM ACM Chapter will be led by a team of Chapter Officers who will oversee the community's activities and initiatives. The officer roles and responsibilities are as follows:
@@ -71,6 +74,7 @@ The current steering committee members are:
 - NG Aik Beng
 - Indriyati ATMOSUKARTO
 - Megani RAJENDRAN
+- Vincent TANG
 
 More details on the roles and responsibilities of the officers can be found in the [chapter-in-a-box-professional](https://www.acm.org/binaries/content/assets/chapters/chapter-in-a-box-professional.pdf) guide provided by the ACM.
 
@@ -79,9 +83,12 @@ More details on the roles and responsibilities of the officers can be found in t
 The IIM ACM Chapter will organize regular meetings and activities to engage members and foster collaboration within the community. We primarily aim to conduct these activities at leading conferences and symposiums. Some of the key activities we plan to organize include:
 
 - **Workshops and Tutorials** at CHI, AAAI, ISMAR
-- **Talks and Panel** Discussions at NVAITC
+- **Talks and Panel** Discussions at NVAITC and AAAI Summer Symposiums
 - **Birds of a Feather (BoF)** at SIGGRAPH and SIGGRAPH Asia
 - etc.
 
 ## 6. Finances
-[to be added]
+
+The IIM ACM Chapter will operate on a non-profit basis and will rely on funding from the community and external sponsors to support its activities. Specific sources of funding will be determined at a later stage.
+
+All ACM Chapters collect and disburse their own funds for the normal operations of the chapter. A financial report will be prepared annually and shared with the ACM to ensure transparency and accountability in the management of the chapter's finances.
