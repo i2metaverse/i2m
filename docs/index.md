@@ -1,4 +1,5 @@
-# Charter Document for Intelligent Immersion in the Metaverse (IIM) ACM Chapter
+# Charter Document for 
+## Intelligent Immersion in the Metaverse (IIM) ACM Chapter
 
 This document will be used to outline the structure, mission, and activities of the Intelligent Immersion in the Metaverse (IIM) ACM Chapter.
 
