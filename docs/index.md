@@ -28,13 +28,14 @@ Our community fosters a collaborative environment that leverages the diverse per
 
 By joining us, you can contribute to the growth and innovation of intelligent immersification through our collaborative efforts.
 
-Some background about IIM:
+### Background
+
+We started as a tiny group of researchers and practitioners who are passionate about the intersection of AI and immersive technologies. As we recognized the potential of this cross-polination, we decided to organize something more formal to bring together like-minded individuals to explore and share our thoughts on the future of this idea:
 - We started an "AI x Metaverse" track in the AAAI 2023 Summer Symposium, and garnered the highest number of submissions resulting in a full-day workshop that was the most attended track
 - We followed that up with a "AI x Metaverse" BoF session at SIGGRAPH Asia 2023, which also enjoyed (more than) a full house
 
 ![aaai](https://github.com/humaien/iim/assets/3528274/383b9d2e-806e-4632-8a75-269e8d5a3073)
 ![bof](https://github.com/humaien/iim/assets/3528274/d82f8da6-8dc9-4a12-a550-95b46be6abd1)
-
 
 ## Mission and Vision
 
