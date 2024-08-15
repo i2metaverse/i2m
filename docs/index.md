@@ -3,9 +3,9 @@
 
 This document will be used to outline the structure, vision/mission, and activities of the Intelligent Immersion in the Metaverse (I2M) ACM Chapter.
 
-The immediate goal is to officially establish IIM as an ACM Virtual Chapter.
+I2M is now an official ACM Virtual Chapter.
 - note that traditional ACM chapters are geographically based, but virtual chapters are based on a common interest or theme
-- we did not tie this to a SIG, as there is no one SIG that covers the intersecting areas
+- we did not tie this to a SIG, as there is no single SIG that covers the intersecting areas
 
 ## Table of Contents:
 
@@ -18,7 +18,7 @@ The immediate goal is to officially establish IIM as an ACM Virtual Chapter.
 
 ## Overview
 
-The Intelligent Immersion in the Metaverse (IIM) ACM Chapter welcomes individuals passionate about exploring the intersection of artificial intelligence (AI) and immersive technologies, including research and development across domains of Machine Learning, Human-Computer Interaction, Computer Graphics, and other related fields.
+The Intelligent Immersion in the Metaverse (I2M) ACM Chapter welcomes individuals passionate about exploring the intersection of artificial intelligence (AI) and immersive technologies, including research and development across domains of Machine Learning, Human-Computer Interaction, Computer Graphics, and other related fields.
 
 Our community fosters a collaborative environment that leverages the diverse perspectives of professionals, researchers, and enthusiasts interested in intelligent immersion technologies. We aim to:
 
@@ -41,7 +41,7 @@ We started as a tiny group of researchers and practitioners who are passionate a
 
 **Mission:**
 
-The IIM ACM Chapter's mission is to:
+The I2M ACM Chapter's mission is to:
 
 * **Empower individuals** to explore and leverage intelligent immersion technologies in the metaverse.
 * **Advance the field** by fostering knowledge sharing, collaboration, and innovation.
@@ -49,11 +49,11 @@ The IIM ACM Chapter's mission is to:
 
 **Vision:**
 
-The IIM ACM Chapter aspires to be a leading force in shaping the future of the metaverse by spearheading workshops, symposiums, and collaborative research initiatives that drive the integration of AI and immersive technologies.
+The I2M ACM Chapter aspires to be a leading force in shaping the future of the metaverse by spearheading workshops, symposiums, and collaborative research initiatives that drive the integration of AI and immersive technologies.
 
 ## Membership
 
-Membership in the IIM ACM Chapter is open to individuals who share an interest in the intersection of artificial intelligence and immersive technologies. Members are encouraged to actively participate in the community by:
+Membership in the I2M ACM Chapter is open to individuals who share an interest in the intersection of artificial intelligence and immersive technologies. Members are encouraged to actively participate in the community by:
 
 * **Contributing to knowledge sharing:** Share insights, research findings, and resources related to intelligent immersion technologies.
 * **Participating in events:** Attend workshops, technical sessions, and conferences to stay updated on the latest trends and advancements.
@@ -66,11 +66,11 @@ Unofficially, we will also maintain a Discord server for community members to en
 
 https://discord.gg/vaKR5BBQt4
 
-To maintain IIM as an ACM Chapter, we will need to have at least a Chair, Vice-Chair and Treasurer. We will also need to have at least 10 ACM members in good standing to start the chapter.
+To maintain I2M as an ACM Chapter, we will need to have at least a Chair, Vice-Chair and Treasurer. We will also need to have at least 10 ACM members in good standing to start the chapter.
 
 ## Officers and Leadership
 
-The IIM ACM Chapter will be led by a team of Chapter Officers who will oversee the community's activities and initiatives. The officer roles and responsibilities are as follows:
+The I2M ACM Chapter will be led by a team of Chapter Officers who will oversee the community's activities and initiatives. The officer roles and responsibilities are as follows:
 - **Chapter Chair:** Responsible for overseeing the chapter's operations, setting strategic goals, and coordinating activities
 - **Chapter Vice-Chair:** Assists the Chapter Chair in their duties and takes on additional responsibilities as needed
 - **Chapter Treasurer:** Manages the chapter's finances, including budgeting, fundraising, and financial reporting
@@ -89,7 +89,7 @@ More details on the roles and responsibilities of the officers can be found in t
 
 ## Meetings and Activities
 
-The IIM ACM Chapter will organize regular meetings and activities to engage members and foster collaboration within the community. We primarily aim to conduct these activities at leading conferences and symposiums. Some of the key activities we plan to organize include:
+The I2M ACM Chapter will organize regular meetings and activities to engage members and foster collaboration within the community. We primarily aim to conduct these activities at leading conferences and symposiums. Some of the key activities we plan to organize include:
 
 - **Workshops and Tutorials** at CHI, AAAI, ISMAR
 - **Talks and Panel** Discussions at NVAITC and AAAI Summer Symposiums
@@ -98,6 +98,6 @@ The IIM ACM Chapter will organize regular meetings and activities to engage memb
 
 ## Finances
 
-The IIM ACM Chapter will operate on a non-profit basis and will rely on funding from the community and external sponsors to support its activities. Specific sources of funding will be determined at a later stage.
+The I2M ACM Chapter will operate on a non-profit basis and will rely on funding from the community and external sponsors to support its activities. Specific sources of funding will be determined at a later stage.
 
 All ACM Chapters collect and disburse their own funds for the normal operations of the chapter. A financial report will be prepared annually and shared with the ACM to ensure transparency and accountability in the management of the chapter's finances.
