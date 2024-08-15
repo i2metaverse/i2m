@@ -76,11 +76,11 @@ The IIM ACM Chapter will be led by a team of Chapter Officers who will oversee t
 - **Chapter Treasurer:** Manages the chapter's finances, including budgeting, fundraising, and financial reporting
 - **Chapter Secretary:** Handles administrative tasks, maintains records, and manages communication with members (this role may be combined with the Treasurer role)
 
-The current steering committee members are:
-- TAN Chek Tien (Singapore Institute of Technology)
-- NG Aik Beng (NVIDIA)
-- Indriyati ATMOSUKARTO (Singapore Institute of Technology)
-- Megani RAJENDRAN (NVIDIA)
+The current Chapter Officers are:
+- Chapter Chair: TAN Chek Tien (Singapore Institute of Technology)
+- Chapter Vice-Chair: NG Aik Beng (NVIDIA)
+- Chapter Treasurer: Indriyati ATMOSUKARTO (Singapore Institute of Technology)
+- Chapter Secretary: Megani RAJENDRAN (NVIDIA)
 - Vincent TANG (NVIDIA)
 
 More details on the roles and responsibilities of the officers can be found in the [chapter-in-a-box-professional](https://www.acm.org/binaries/content/assets/chapters/chapter-in-a-box-professional.pdf) guide provided by the ACM.
