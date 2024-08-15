@@ -1,7 +1,7 @@
 # Charter Document for 
-## Intelligent Immersification in the Metaverse (IIM) ACM Chapter
+## Intelligent Immersification in the Metaverse (I2M) ACM Chapter
 
-This document will be used to outline the structure, vision/mission, and activities of the Intelligent Immersion in the Metaverse (IIM) ACM Chapter.
+This document will be used to outline the structure, vision/mission, and activities of the Intelligent Immersion in the Metaverse (I2M) ACM Chapter.
 
 The immediate goal is to officially establish IIM as an ACM Virtual Chapter.
 - note that traditional ACM chapters are geographically based, but virtual chapters are based on a common interest or theme
@@ -75,13 +75,15 @@ The IIM ACM Chapter will be led by a team of Chapter Officers who will oversee t
 - **Chapter Vice-Chair:** Assists the Chapter Chair in their duties and takes on additional responsibilities as needed
 - **Chapter Treasurer:** Manages the chapter's finances, including budgeting, fundraising, and financial reporting
 - **Chapter Secretary:** Handles administrative tasks, maintains records, and manages communication with members (this role may be combined with the Treasurer role)
+- 
 
 The current Chapter Officers are:
 - Chapter Chair: TAN Chek Tien (Singapore Institute of Technology)
 - Chapter Vice-Chair: NG Aik Beng (NVIDIA)
 - Chapter Treasurer: Indriyati ATMOSUKARTO (Singapore Institute of Technology)
 - Chapter Secretary: Megani RAJENDRAN (NVIDIA)
-- Vincent TANG (NVIDIA)
+- Chapter Membership Chair: Vincent TANG (NVIDIA)
+- Chapter Web Chair: Jeannie LEE (Singapore Institute of Technology)
 
 More details on the roles and responsibilities of the officers can be found in the [chapter-in-a-box-professional](https://www.acm.org/binaries/content/assets/chapters/chapter-in-a-box-professional.pdf) guide provided by the ACM.
 
