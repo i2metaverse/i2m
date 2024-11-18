@@ -59,8 +59,7 @@ Membership in the I²M ACM Chapter is open to individuals who share an interest 
 * **Participating in events:** Attend workshops, technical sessions, and conferences to stay updated on the latest trends and advancements.
 * **Collaborating on projects:** Engage in collaborative projects that explore the application of AI in immersive environments.
 
-Membership will be managed through the ACM's official membership platform, and members will be required to adhere to the ACM's Code of Ethics and Professional Conduct.
-[insert link here]
+Membership will be managed through the ACM's official membership platform, and members will be required to adhere to the [ACM's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics).
 
 Unofficially, we will also maintain a Discord server for community members to engage in discussions, share resources, and collaborate on projects.
 
@@ -89,12 +88,18 @@ More details on the roles and responsibilities of the officers can be found in t
 
 ## Meetings and Activities
 
-The I2M ACM Chapter will organize regular meetings and activities to engage members and foster collaboration within the community. We primarily aim to conduct these activities at leading conferences and symposiums. Some of the key activities we plan to organize include:
+The I²M ACM Chapter will organize regular meetings and activities to engage members and foster collaboration within the community. We primarily aim to conduct these activities at leading conferences and symposiums. Some of the key activities we plan to organize include:
 
-- **Workshops and Tutorials** at CHI, AAAI, ISMAR
-- **Talks and Panel** Discussions at NVAITC and AAAI Summer Symposiums
-- **Birds of a Feather (BoF)** at SIGGRAPH and SIGGRAPH Asia
-- etc.
+I²M XY PLANE (in short I²M XY):
+The I²M XY series focuses on foundational topics and essential development skills within I²M. In computer graphics, the X-Y plane is where basic structures and concepts are first laid out. Similarly, these sessions are designed to build a solid foundation for understanding and working with immersive technologies.
+
+These will typically take the form of online knowledge sharing sessions, and could also take place in person at conferences like ACM CHI and SIGGRAPH (Asia) Courses or BoFs.
+
+I²M Z-AXIS (in short I²M Z):
+The I²M Z seminars focus on exploring advanced, state-of-the-art topics within I²M. Just as the Z-axis in computer graphics represents depth, these seminars delve into the deeper complexities required to push the boundaries of research and development. This series will foster collaboration and discourse on cutting-edge developments at the intersection of AI, HCI, and related areas within metaverse technologies.
+
+These will typically take the form of curated I²M workshops, e.g., ACM CHI Workshops and SIGGRAPH Panels, and may also include adhoc online seminars.
+
 
 ## Finances
 
