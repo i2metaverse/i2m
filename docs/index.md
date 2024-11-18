@@ -1,7 +1,7 @@
 # Charter Document for 
-## Intelligent Immersification in the Metaverse (I2M) ACM Chapter
+## Intelligent Immersification in the Metaverse (I²M) ACM Chapter
 
-This document will be used to outline the structure, vision/mission, and activities of the Intelligent Immersion in the Metaverse (I2M) ACM Chapter.
+This document will be used to outline the structure, vision/mission, and activities of the Intelligent Immersion in the Metaverse (I²M) ACM Chapter.
 
 I2M is now an official ACM Virtual Chapter.
 - note that traditional ACM chapters are geographically based, but virtual chapters are based on a common interest or theme
