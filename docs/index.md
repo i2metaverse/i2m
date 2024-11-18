@@ -90,16 +90,17 @@ More details on the roles and responsibilities of the officers can be found in t
 
 The I²M ACM Chapter will organize regular meetings and activities to engage members and foster collaboration within the community. We primarily aim to conduct these activities at leading conferences and symposiums. Some of the key activities we plan to organize include:
 
-I²M XY PLANE (in short I²M XY):
+### I²M XY PLANE (in short I²M XY):
+
 The I²M XY series focuses on foundational topics and essential development skills within I²M. In computer graphics, the X-Y plane is where basic structures and concepts are first laid out. Similarly, these sessions are designed to build a solid foundation for understanding and working with immersive technologies.
 
 These will typically take the form of online knowledge sharing sessions, and could also take place in person at conferences like ACM CHI and SIGGRAPH (Asia) Courses or BoFs.
 
-I²M Z-AXIS (in short I²M Z):
+### I²M Z-AXIS (in short I²M Z):
+
 The I²M Z seminars focus on exploring advanced, state-of-the-art topics within I²M. Just as the Z-axis in computer graphics represents depth, these seminars delve into the deeper complexities required to push the boundaries of research and development. This series will foster collaboration and discourse on cutting-edge developments at the intersection of AI, HCI, and related areas within metaverse technologies.
 
 These will typically take the form of curated I²M workshops, e.g., ACM CHI Workshops and SIGGRAPH Panels, and may also include adhoc online seminars.
-
 
 ## Finances
 
