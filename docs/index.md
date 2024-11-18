@@ -70,7 +70,7 @@ To maintain I²M as an ACM Chapter, we will need to have at least a Chair, Vice-
 
 ## Officers and Leadership
 
-The I2M ACM Chapter will be led by a team of Chapter Officers who will oversee the community's activities and initiatives. The officer roles and responsibilities are as follows:
+The I²M ACM Chapter will be led by a team of Chapter Officers who will oversee the community's activities and initiatives. The officer roles and responsibilities are as follows:
 - **Chapter Chair:** Responsible for overseeing the chapter's operations, setting strategic goals, and coordinating activities
 - **Chapter Vice-Chair:** Assists the Chapter Chair in their duties and takes on additional responsibilities as needed
 - **Chapter Treasurer:** Manages the chapter's finances, including budgeting, fundraising, and financial reporting
