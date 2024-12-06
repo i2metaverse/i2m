@@ -3,7 +3,7 @@
 
 This document will be used to outline the structure, vision/mission, and activities of the Intelligent Immersion in the Metaverse (I²M) ACM Chapter.
 
-I²M is now an official ACM Virtual Chapter.
+I²M is now an official ACM Virtual Chapter (click "Show Virtual Chapters" at https://www.acm.org/chapters/find-a-chapter)
 - note that traditional ACM chapters are geographically based, but virtual chapters are based on a common interest or theme
 - we did not tie this to a SIG, as there is no single SIG that covers the intersecting areas
 
