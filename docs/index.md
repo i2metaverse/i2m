@@ -81,7 +81,7 @@ The current Chapter Officers are:
 - Chapter Vice-Chair: NG Aik Beng (NVIDIA)
 - Chapter Treasurer: Indriyati ATMOSUKARTO (Singapore Institute of Technology)
 - Chapter Secretary: Megani RAJENDRAN (NVIDIA)
-- Chapter Membership Chair: Vincent TANG (NVIDIA)
+- Chapter Membership Chair: Yethoven TUKIMIN (Meta)
 - Chapter Web Chair: Jeannie LEE (Singapore Institute of Technology)
 
 More details on the roles and responsibilities of the officers can be found in the [chapter-in-a-box-professional](https://www.acm.org/binaries/content/assets/chapters/chapter-in-a-box-professional.pdf) guide provided by the ACM.
